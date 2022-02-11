@@ -95,7 +95,7 @@ export default {
       "missions": [
         {
           "slug": "001",
-          "name": "Bug-Hunt",
+          "name": "Rushing Current",
           "status": "start"
         },
       ],
@@ -150,7 +150,7 @@ export default {
         "headerTitle": "Alpha",
         "headerSubtitle": "Test Group",
         "subheaderTitle": "Field Exercise ",
-        "subheaderSubtitle": "Foxtrot-Tango-Xray — Romeo-Charlie",
+        "subheaderSubtitle": "FTX - RC",
       },
       "options":{
         "eventsMarkdownPerMission": true
