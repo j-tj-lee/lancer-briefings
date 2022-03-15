@@ -96,6 +96,11 @@ export default {
         {
           "slug": "001",
           "name": "Rushing Current",
+          "status": "success"
+        },
+        {
+          "slug": "002",
+          "name": "Coming Storm",
           "status": "start"
         },
       ],
